@@ -14,6 +14,3 @@ def format_linter_report(linter_report: dict) -> list:
 
 
 
-
-
-
